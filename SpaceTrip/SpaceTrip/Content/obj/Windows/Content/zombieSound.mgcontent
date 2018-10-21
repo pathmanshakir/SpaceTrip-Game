@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Shakir/Documents/SpaceTrip_Pathman_Shakir/SpaceTrip/SpaceTrip/Content/zombieSound.wav</SourceFile>
+  <SourceTime>2011-01-02T20:44:06+01:00</SourceTime>
+  <DestFile>C:/Users/Shakir/Documents/SpaceTrip_Pathman_Shakir/SpaceTrip/SpaceTrip/Content/bin/Windows/Content/zombieSound.xnb</DestFile>
+  <DestTime>2018-01-11T19:40:37.0723678+01:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2017-09-27T03:32:24+02:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2017-09-27T03:32:24+02:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
